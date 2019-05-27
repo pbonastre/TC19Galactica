@@ -4,7 +4,7 @@ import java.io.PrintWriter;
 import java.util.*;
 
 public class BattlestarGalactica {
-    private static final String INFILENAME = "C:\\workSpaceTuenti\\TC19Galactica\\input\\galacticaInL.txt";
+    private static final String INFILENAME = "C:\\workSpaceTuenti\\TC19Galactica\\input\\galacticaInTL.txt";
     private static String OUTFILENAME = "C:\\workSpaceTuenti\\TC19Galactica\\output\\outputChallenge2.txt";
     private static Scanner in;
     private static PrintWriter out;
